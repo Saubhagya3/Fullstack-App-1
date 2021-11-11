@@ -1,6 +1,6 @@
 # Fullstack Application
 
-- This is the description of the solution, the tools used and decisions made for the project.
+- This is a simple fullstack application that connects to a database to display data and perform CRUD (specifically create and update) operations. This is the description of the solution, the tools used and decisions made for the project.
 
 ## View Application
 
